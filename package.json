@@ -38,6 +38,7 @@
 	"dependencies": {
 		"@inlang/paraglide-js": "^2.0.0",
 		"lucide-svelte": "^0.503.0",
-		"recharts": "^2.15.3"
+		"recharts": "^2.15.3",
+		"svelte-radix": "^2.0.1"
 	}
 }
